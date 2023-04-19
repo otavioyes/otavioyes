@@ -24,17 +24,17 @@
 <a href="https://www.instagram.com/otaviocorrea77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
   
- <a href="https://www.linkedin.com/in/otavio-augusto-correa/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/Otavio-Correa/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
   
   
-  ### Main skills:
+  ### MAIN SKILLS:
 ![Java 8](https://img.shields.io/badge/-java_8-0D1117?style=for-the-badge&logo=java-8&labelColor=C8A2C8&labelColor=0D1117)&nbsp; 
   
   
   
-### Tools:
+### TOOLS:
 ![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ_idea-0D1117?style=for-the-badge&logo=intellij-idea&labelColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
@@ -42,7 +42,7 @@
   
   
  
-### Other Knowledge:
+### OTHER KNOWLEDGE:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)  
@@ -52,7 +52,7 @@
   
   
 
-### Studying in this moment:
+### STUDYING IN THIS MOMENT:
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=Spring-Boot&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
