@@ -1,8 +1,7 @@
 ### Olá! Sou Otavio
 
-- 🔭 Hoje eu trabalho com Back-end
-- 🌱 Estudando Spring Boot
-- 😄 Pronouns: ele/dele
+- 🔭 Trabalho com Back-end
+
 
 
 
