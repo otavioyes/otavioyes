@@ -24,7 +24,7 @@
 <a href="https://www.instagram.com/otaviocorrea77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
   
- <a href="https://www.linkedin.com/in/otavio-augusto-santos-correa/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/otavio-augusto-correa/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
   
