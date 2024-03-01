@@ -38,6 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/-apache_maven-0D1117?style=for-the-badge&logo=apache-maven&labelColor=0D1117)&nbsp;  
+![CODE::BLOCKS](https://img.shields.io/badge/-Code::Blocks-2C2E3B?style=for-the-badge&logo=code::blocks&labelColor=0D1117)
 ![VISUAL STUDIO](https://img.shields.io/badge/-visual--studio-0D1117?style=for-the-badge&logo=visual-studio&labelColor=C8A2C8)
   
   
