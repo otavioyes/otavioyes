@@ -9,12 +9,9 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otavioyes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Otavio Correa github stats" /> 
 
-[GitHub stars](https://github.com/otavioyes?sort=stars)[![Stars](https://img.shields.io/github/stars/otavioyes?style=social&logo=github)](https://github.com/otavioyes?sort=stars)
+# [Seu nome](https://github.com/seu-nome-de-usuario)
 
-[GitHub forks](https://github.com/otavioyes?sort=forks)[![Forks](https://img.shields.io/github/forks/otavioyes?style=social&logo=github)](https://github.com/otavioyes?sort=forks)
-
-[GitHub commits](https://img.shields.io/github/commits-year/otavioyes?style=flat-square&logo=github)[![Commits/year](https://img.shields.io/github/commits-year/otavioyes?style=flat-square&logo=github)](https://github.com/otavioyes)
-
+[![Octoreadme](https://octoreadme.github.io/octoreadme.png)](https://github.com/octoreadme/octoreadme)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=otavioyes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
