@@ -48,11 +48,12 @@
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/-JPA-007396?style=flat-square&logo=java&logoColor=white)
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=Spring-Boot&labelColor=0D1117&textColor=0D1117)&nbsp;
   
   
 
 ### STUDYING IN THIS MOMENT:
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=Spring-Boot&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&labelColor=0D1117&textColor=0D1117)&nbsp;
 
   
 
