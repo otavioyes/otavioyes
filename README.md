@@ -9,14 +9,11 @@
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <a href="https://github.com/otavioyes/Python_Practice.git" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="65" width="65" />
+ <img align="center" src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=" C++"height="90" width="180" />
   </a>
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otavioyes&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
-</p>
+
 
 <p align="center">
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=otavioyes&hide_border=true&theme=transparent" /> 
@@ -38,41 +35,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
 </p>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="mailto:otaviocorrea77@gmail.com" target="_blank">
-    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://otaviocorrea.vercel.app" target="_blank">
-    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/otavio-correa-9a69b2252/" target="_blank">
-    <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
-  </a>
-</p>
+****************************************************************************************************************************************
 
-### Hello! I'm Otavio
-
-- 🔭 I work with Back-end
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Otavio+Correa;I'm+from+Sao+Paulo;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=otavioyes&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Otavio Correa github stats" /> 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otavioyes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/otaviocorrea77/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
-  
- <a href="https://www.linkedin.com/in/otavio-correa-9a69b2252/" rel="nofollow"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### MAIN SKILLS:
 ![Java 8](https://img.shields.io/badge/-java_8-0D1117?style=for-the-badge&logo=java-8&labelColor=C8A2C8&labelColor=0D1117)&nbsp; 
