@@ -10,7 +10,7 @@
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/otavioyes/Python_Practice.git" target="_blank">
-    <img align="center" src="assets/c++.png" alt="C++" height="65" width="65" />
+    <img align="center" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="65" width="65" />
   </a>
 </p>
 
