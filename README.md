@@ -9,7 +9,7 @@
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-  <a href="https://github.com/otavioyes/Python_Practice.git" target="_blank">
+  <a href="https://github.com/otavioyes/C++_Practice.git" target="_blank">
     <img align="center" src="assets/python.png" alt="Python" height="65" width="65" />
   </a>
 </p>
