@@ -1,8 +1,5 @@
 <h1 align="center">Otavio Correa</h1>
 <h3 align="center">Software Engineer</h3>
-<p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
-</p>
 
 
 <p align="center">Currently working on - Private Projects</p>
