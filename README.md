@@ -38,6 +38,8 @@
 ### MAIN SKILLS:
 ![Java 8](https://img.shields.io/badge/-java_8-0D1117?style=for-the-badge&logo=java-8&labelColor=C8A2C8&labelColor=0D1117)&nbsp; 
 ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=c++-8&labelColor=C8A2C8&labelColor=0D1117)&nbsp;   
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=Python-8&labelColor=C8A2C8&labelColor=0D1117)&nbsp;   
+
 
 ### TOOLS:
 ![IntelliJ IDEA](https://img.shields.io/badge/-intelliJ_idea-0D1117?style=for-the-badge&logo=intellij-idea&labelColor=C8A2C8&labelColor=0D1117)&nbsp;
