@@ -57,7 +57,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=for-the-badge&logo=Spring-Boot&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### STUDYING IN THIS MOMENT:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C++&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
