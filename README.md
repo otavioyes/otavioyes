@@ -6,7 +6,7 @@
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
- <img align="center" src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=" C++"height="90" width="180" />
+ <img align="center" src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=" Python"height="90" width="180" />
   </a>
 </p>
 
