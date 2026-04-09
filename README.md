@@ -6,7 +6,7 @@
 
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
-<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" height="90" />
+<img src="https://www.c.org/static/community_logos/python-logo.png" alt="Python Logo" height="90" />
   </a>
 </p>
 
